@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ul,ol,li{
+  
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+    cursor: pointer;
+}
+body{
+    background-color: skyblue;
+    font-size: 14px;
+}
+
+input{
+    border: 0 none;/*去除边框*/
+    outline-style: none;/*去除聚焦的效果*/
+}
+
+img{
+    vertical-align: middle;
+}
